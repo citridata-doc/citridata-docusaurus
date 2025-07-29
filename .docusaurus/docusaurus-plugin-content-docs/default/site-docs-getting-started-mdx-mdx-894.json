@@ -1,0 +1,28 @@
+{
+  "id": "Getting Started/MDX",
+  "title": "MDX Example",
+  "description": "Important information: This is an Exciting example of custom components!",
+  "source": "@site/docs/Getting Started/MDX.mdx",
+  "sourceDirName": "Getting Started",
+  "slug": "/Getting Started/MDX",
+  "permalink": "/docs/Getting Started/MDX",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Getting Started/MDX.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "MDX Example",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Basic Markdown DOS",
+    "permalink": "/docs/Getting Started/Basic Markdown"
+  },
+  "next": {
+    "title": "Table of Contents Pepe",
+    "permalink": "/docs/Getting Started/table-of-contents"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Getting Started/Basic Markdown",
+          "docs": [
+            {
+              "id": "Getting Started/API-docs",
+              "path": "/docs/Getting Started/API-docs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/Basic Markdown",
+              "path": "/docs/Getting Started/Basic Markdown",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/Created",
+              "path": "/docs/Getting Started/Created",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/MDX",
+              "path": "/docs/Getting Started/MDX",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/Session-replay",
+              "path": "/docs/Getting Started/Session-replay",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Getting Started/table-of-contents",
+              "path": "/docs/Getting Started/table-of-contents",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Material and Resources/Material",
+              "path": "/docs/Material and Resources/Material",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Material and Resources/Resources",
+              "path": "/docs/Material and Resources/Resources",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "single-page",
+              "path": "/docs/single-page",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/Getting Started/Basic Markdown",
+                "label": "Getting Started/Basic Markdown"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

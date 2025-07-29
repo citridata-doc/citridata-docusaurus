@@ -1,0 +1,21 @@
+{
+  "id": "Getting Started/Created",
+  "title": "Created",
+  "description": "",
+  "source": "@site/docs/Getting Started/1.- Created.md",
+  "sourceDirName": "Getting Started",
+  "slug": "/Getting Started/Created",
+  "permalink": "/docs/Getting Started/Created",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Getting Started/1.- Created.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Session-replay",
+    "permalink": "/docs/Getting Started/Session-replay"
+  }
+}

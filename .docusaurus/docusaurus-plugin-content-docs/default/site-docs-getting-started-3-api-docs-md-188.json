@@ -1,0 +1,21 @@
+{
+  "id": "Getting Started/API-docs",
+  "title": "API-docs",
+  "description": "",
+  "source": "@site/docs/Getting Started/3.- API-docs.md",
+  "sourceDirName": "Getting Started",
+  "slug": "/Getting Started/API-docs",
+  "permalink": "/docs/Getting Started/API-docs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Getting Started/3.- API-docs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Created",
+    "permalink": "/docs/Getting Started/Created"
+  }
+}

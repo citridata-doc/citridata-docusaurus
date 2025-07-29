@@ -1,0 +1,24 @@
+{
+  "id": "Material and Resources/material",
+  "title": "material",
+  "description": "",
+  "source": "@site/docs/Material and Resources/material.md",
+  "sourceDirName": "Material and Resources",
+  "slug": "/Material and Resources/material",
+  "permalink": "/docs/Material and Resources/material",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Material and Resources/material.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Session-replay",
+    "permalink": "/docs/Getting Started/Session-replay"
+  },
+  "next": {
+    "title": "resources",
+    "permalink": "/docs/Material and Resources/resources"
+  }
+}
