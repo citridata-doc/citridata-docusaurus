@@ -13,8 +13,12 @@
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introducción",
+    "permalink": "/docs/CitriData/Introducción"
+  },
   "next": {
-    "title": "DataSets",
-    "permalink": "/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets"
+    "title": "001",
+    "permalink": "/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets/001"
   }
 }

@@ -1,0 +1,24 @@
+{
+  "id": "Sensorización, infraestructuras y tecnologías de datos/DataSets/001",
+  "title": "001",
+  "description": "",
+  "source": "@site/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets/001.md",
+  "sourceDirName": "Sensorización, infraestructuras y tecnologías de datos/DataSets",
+  "slug": "/Sensorización, infraestructuras y tecnologías de datos/DataSets/001",
+  "permalink": "/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets/001",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/citridata-doc/citridata-docusaurus/tree/main/docs/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets/001.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introducción",
+    "permalink": "/docs/Sensorización, infraestructuras y tecnologías de datos/Introducción"
+  },
+  "next": {
+    "title": "002",
+    "permalink": "/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets/002"
+  }
+}

@@ -8,8 +8,13 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "Sensorización, infraestructuras y tecnologías de datos/Introducción",
+          "mainDocId": "CitriData/Introducción",
           "docs": [
+            {
+              "id": "CitriData/Introducción",
+              "path": "/docs/CitriData/Introducción",
+              "sidebar": "tutorialSidebar"
+            },
             {
               "id": "Competencia de paises terceros en el mercado de cítricos/Introducción",
               "path": "/docs/Competencia de paises terceros en el mercado de cítricos/Introducción",
@@ -49,9 +54,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Sensorización, infraestructuras y tecnologías de datos/DataSets",
-              "path": "/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets",
+              "id": "Sensorización, infraestructuras y tecnologías de datos/DataSets/001",
+              "path": "/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets/001",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensorización, infraestructuras y tecnologías de datos/DataSets/002",
+              "path": "/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets/002",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensorización, infraestructuras y tecnologías de datos/DataSets/DataSets",
+              "path": "/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets/"
             },
             {
               "id": "Sensorización, infraestructuras y tecnologías de datos/Introducción",
@@ -59,17 +73,26 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Sensorización, infraestructuras y tecnologías de datos/Packages",
-              "path": "/docs/Sensorización, infraestructuras y tecnologías de datos/Packages",
+              "id": "Sensorización, infraestructuras y tecnologías de datos/Packages/001",
+              "path": "/docs/Sensorización, infraestructuras y tecnologías de datos/Packages/001",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensorización, infraestructuras y tecnologías de datos/Packages/002",
+              "path": "/docs/Sensorización, infraestructuras y tecnologías de datos/Packages/002",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensorización, infraestructuras y tecnologías de datos/Packages/Packages",
+              "path": "/docs/Sensorización, infraestructuras y tecnologías de datos/Packages/"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/Sensorización, infraestructuras y tecnologías de datos/Introducción",
-                "label": "Sensorización, infraestructuras y tecnologías de datos/Introducción"
+                "path": "/docs/CitriData/Introducción",
+                "label": "CitriData/Introducción"
               }
             }
           }

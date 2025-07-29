@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Sensorización, infraestructuras y tecnologías de datos',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/001.svg').default,
     description: (
       <>
       
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Observación de la Tierra y el clima',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/002.svg').default,
     description: (
       <>
        
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Eficiencias en el uso del suelo, ambiente, insumos y estilos de agricultura',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/003.svg').default,
     description: (
       <>
    
@@ -32,7 +32,7 @@ const FeatureList = [
   },
   {
     title: 'Optimización de agua y energía',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/004.svg').default,
     description: (
       <>
      
@@ -41,7 +41,7 @@ const FeatureList = [
   },
   {
     title: 'Gestión pre y postcosecha e industria alimentaria',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/005.svg').default,
     description: (
       <>
        
@@ -50,7 +50,7 @@ const FeatureList = [
   },
   {
     title: 'Competencia de paises terceros en el mercado de cítricos',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/006.svg').default,
     description: (
       <>
        
@@ -59,7 +59,7 @@ const FeatureList = [
   },
   {
     title: 'Gobernanza y desarrollo de oportunidades de negocio y utilidades',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/012.svg').default,
     description: (
       <>
        

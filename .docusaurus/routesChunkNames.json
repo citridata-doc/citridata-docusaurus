@@ -263,18 +263,22 @@
     },
     "config": "config---my-react-page-5-e-9-dcc"
   },
-  "/docs-747": {
+  "/docs-746": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-368": {
+  "/docs-1fb": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-455": {
+  "/docs-f23": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/CitriData/Introducción-161": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-citri-data-introduccion-4-d-8-95b"
   },
   "/docs/Competencia de paises terceros en el mercado de cítricos/Introducción-571": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -308,17 +312,33 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-optimizacion-de-agua-y-energia-introduccionc-90-c12"
   },
-  "/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets-c06": {
+  "/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets/-c87": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sensorizacion-infraestructuras-y-tecnologias-de-datos-data-setse-5-c-441"
+    "content": "content---docs-sensorizacion-infraestructuras-y-tecnologias-de-datos-data-sets-0-f-1-738"
+  },
+  "/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets/001-c5d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sensorizacion-infraestructuras-y-tecnologias-de-datos-data-sets-001-db-7-2e1"
+  },
+  "/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets/002-e90": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sensorizacion-infraestructuras-y-tecnologias-de-datos-data-sets-002-d-64-6e2"
   },
   "/docs/Sensorización, infraestructuras y tecnologías de datos/Introducción-bf7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-sensorizacion-infraestructuras-y-tecnologias-de-datos-introduccionc-21-d55"
   },
-  "/docs/Sensorización, infraestructuras y tecnologías de datos/Packages-909": {
+  "/docs/Sensorización, infraestructuras y tecnologías de datos/Packages/-fd9": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-sensorizacion-infraestructuras-y-tecnologias-de-datos-packages-7-bf-7a6"
+    "content": "content---docs-sensorizacion-infraestructuras-y-tecnologias-de-datos-packages-85-f-cd7"
+  },
+  "/docs/Sensorización, infraestructuras y tecnologías de datos/Packages/001-d48": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sensorizacion-infraestructuras-y-tecnologias-de-datos-packages-001049-2c3"
+  },
+  "/docs/Sensorización, infraestructuras y tecnologías de datos/Packages/002-8ff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sensorizacion-infraestructuras-y-tecnologias-de-datos-packages-0027-b-2-824"
   },
   "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

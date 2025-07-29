@@ -124,16 +124,22 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '747'),
+    component: ComponentCreator('/docs', '746'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '368'),
+        component: ComponentCreator('/docs', '1fb'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '455'),
+            component: ComponentCreator('/docs', 'f23'),
             routes: [
+              {
+                path: '/docs/CitriData/Introducción',
+                component: ComponentCreator('/docs/CitriData/Introducción', '161'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/Competencia de paises terceros en el mercado de cítricos/Introducción',
                 component: ComponentCreator('/docs/Competencia de paises terceros en el mercado de cítricos/Introducción', '571'),
@@ -181,8 +187,19 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets',
-                component: ComponentCreator('/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets', 'c06'),
+                path: '/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets/',
+                component: ComponentCreator('/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets/', 'c87'),
+                exact: true
+              },
+              {
+                path: '/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets/001',
+                component: ComponentCreator('/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets/001', 'c5d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets/002',
+                component: ComponentCreator('/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets/002', 'e90'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -193,8 +210,19 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Sensorización, infraestructuras y tecnologías de datos/Packages',
-                component: ComponentCreator('/docs/Sensorización, infraestructuras y tecnologías de datos/Packages', '909'),
+                path: '/docs/Sensorización, infraestructuras y tecnologías de datos/Packages/',
+                component: ComponentCreator('/docs/Sensorización, infraestructuras y tecnologías de datos/Packages/', 'fd9'),
+                exact: true
+              },
+              {
+                path: '/docs/Sensorización, infraestructuras y tecnologías de datos/Packages/001',
+                component: ComponentCreator('/docs/Sensorización, infraestructuras y tecnologías de datos/Packages/001', 'd48'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Sensorización, infraestructuras y tecnologías de datos/Packages/002',
+                component: ComponentCreator('/docs/Sensorización, infraestructuras y tecnologías de datos/Packages/002', '8ff'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

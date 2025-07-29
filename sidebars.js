@@ -21,15 +21,39 @@ const sidebars = {
   // But you can create a sidebar manually
   
   tutorialSidebar: [
-   
+
+    {
+      type: 'category',
+      label: 'CitriData', 
+      items: ['CitriData/Introducción',
+           
+      ],
+    },    
+
     {
       type: 'category',
       label: 'Sensorización, infraestructuras y tecnologías de datos', 
-      items: ['Sensorización, infraestructuras y tecnologías de datos/Introducción',
-              'Sensorización, infraestructuras y tecnologías de datos/DataSets',
-              'Sensorización, infraestructuras y tecnologías de datos/Packages'
+      collapsible: true,
+      collapsed: true,
+      items: [
+        'Sensorización, infraestructuras y tecnologías de datos/Introducción',
+        {
+          type: 'category',
+          label: 'DataSets',
+          items: ['Sensorización, infraestructuras y tecnologías de datos/DataSets/001', 
+                  'Sensorización, infraestructuras y tecnologías de datos/DataSets/002'
+                ],
+        },
+        {
+          type: 'category',
+          label: 'Packages',
+          items: ['Sensorización, infraestructuras y tecnologías de datos/Packages/001', 
+                  'Sensorización, infraestructuras y tecnologías de datos/Packages/002'
+                ],
+        },        
       ],
     },
+
     {
       type: 'category',
       label: 'Observación de la Tierra y el clima',

@@ -1,0 +1,20 @@
+{
+  "id": "CitriData/Introducción",
+  "title": "Introducción",
+  "description": "",
+  "source": "@site/docs/CitriData/Introducción.md",
+  "sourceDirName": "CitriData",
+  "slug": "/CitriData/Introducción",
+  "permalink": "/docs/CitriData/Introducción",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/citridata-doc/citridata-docusaurus/tree/main/docs/docs/CitriData/Introducción.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Introducción",
+    "permalink": "/docs/Sensorización, infraestructuras y tecnologías de datos/Introducción"
+  }
+}
