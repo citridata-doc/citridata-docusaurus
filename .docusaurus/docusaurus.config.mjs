@@ -5,7 +5,7 @@
  */
 export default {
   "title": "CitriData",
-  "tagline": "Desarrollos y documentación de CitriData",
+  "tagline": "Activos para Data Spaces",
   "favicon": "img/citri.ico",
   "future": {
     "v4": {
@@ -28,10 +28,10 @@ export default {
     },
     "experimental_router": "browser"
   },
-  "url": "https://your-docusaurus-site.example.com",
+  "url": "https://citridata-doc.github.io",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "citridata-doc",
+  "projectName": "citridata-docusaurus",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -48,7 +48,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/citridata-doc/citridata-docusaurus/tree/main/docs"
         },
         "blog": {
           "showReadingTime": true,
@@ -83,15 +83,10 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Documentación"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/citridata-doc/citridata-docusaurus",
           "label": "GitHub",
           "position": "right"
         }
@@ -102,11 +97,23 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "Nuestras WEBs",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              "label": "CitriData",
+              "to": "https://uco.es/citridata"
+            },
+            {
+              "label": "Escuela Técnica Superior de Ingenieros Agrónomos y Montes",
+              "to": "https://uco.es/etsiam"
+            },
+            {
+              "label": "Aula de Transformación Digital FIWARE",
+              "to": "https://uco.es/atdfiware"
+            },
+            {
+              "label": "Universidad de Córdoba",
+              "to": "https://uco.es/atdfiware"
             }
           ]
         },
@@ -141,7 +148,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2025 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2025 CitriData-Doc, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {

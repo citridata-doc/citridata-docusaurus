@@ -1,0 +1,24 @@
+{
+  "id": "Competencia de paises terceros en el mercado de cítricos/Introducción",
+  "title": "Introducción",
+  "description": "",
+  "source": "@site/docs/Competencia de paises terceros en el mercado de cítricos/Introducción.md",
+  "sourceDirName": "Competencia de paises terceros en el mercado de cítricos",
+  "slug": "/Competencia de paises terceros en el mercado de cítricos/Introducción",
+  "permalink": "/docs/Competencia de paises terceros en el mercado de cítricos/Introducción",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/citridata-doc/citridata-docusaurus/tree/main/docs/docs/Competencia de paises terceros en el mercado de cítricos/Introducción.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introducción",
+    "permalink": "/docs/Gestión pre y postcosecha e industria alimentaria/Introducción"
+  },
+  "next": {
+    "title": "Introducción",
+    "permalink": "/docs/Gobernanza y desarrollo de oportunidades de negocio y utilidades/Introducción"
+  }
+}

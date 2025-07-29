@@ -4,65 +4,68 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'PT1',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
-  },
-  {
-    title: 'PT2',
+    title: 'Sensorización, infraestructuras y tecnologías de datos',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+      
       </>
     ),
   },
   {
-    title: 'PT3',
+    title: 'Observación de la Tierra y el clima',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+       
       </>
     ),
   },
   {
-    title: 'PT4',
+    title: 'Eficiencias en el uso del suelo, ambiente, insumos y estilos de agricultura',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+   
       </>
     ),
   },
   {
-    title: 'PT5',
+    title: 'Optimización de agua y energía',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+     
       </>
     ),
   },
   {
-    title: 'PT6',
+    title: 'Gestión pre y postcosecha e industria alimentaria',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+       
       </>
     ),
-  }     
+  },
+  {
+    title: 'Competencia de paises terceros en el mercado de cítricos',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+       
+      </>
+    ),
+  },
+  {
+    title: 'Gobernanza y desarrollo de oportunidades de negocio y utilidades',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+       
+      </>
+    ),
+  }           
 ];
 
 function Feature({Svg, title, description}) {

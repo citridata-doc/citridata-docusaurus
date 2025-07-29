@@ -8,7 +8,7 @@
   "permalink": "/docs/Getting Started/Basic Markdown",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Getting Started/Basic Markdown.md",
+  "editUrl": "https://github.com/citridata-doc/citridata-docusaurus/tree/main/docs/docs/Getting Started/Basic Markdown.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,6 +17,10 @@
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introducción",
+    "permalink": "/docs/Gestión pre y postcosecha e industria alimentaria/Introducción"
+  },
   "next": {
     "title": "MDX Example",
     "permalink": "/docs/Getting Started/MDX"

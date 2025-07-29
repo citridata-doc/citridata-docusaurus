@@ -124,67 +124,77 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '4f3'),
+    component: ComponentCreator('/docs', '747'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '139'),
+        component: ComponentCreator('/docs', '368'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'c19'),
+            component: ComponentCreator('/docs', '455'),
             routes: [
               {
-                path: '/docs/Getting Started/API-docs',
-                component: ComponentCreator('/docs/Getting Started/API-docs', '161'),
+                path: '/docs/Competencia de paises terceros en el mercado de cítricos/Introducción',
+                component: ComponentCreator('/docs/Competencia de paises terceros en el mercado de cítricos/Introducción', '571'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Getting Started/Basic Markdown',
-                component: ComponentCreator('/docs/Getting Started/Basic Markdown', 'b18'),
+                path: '/docs/Eficiencias en el uso del suelo, ambiente, insumos y estilos de agricultura/Introducción',
+                component: ComponentCreator('/docs/Eficiencias en el uso del suelo, ambiente, insumos y estilos de agricultura/Introducción', '859'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Getting Started/Created',
-                component: ComponentCreator('/docs/Getting Started/Created', '048'),
+                path: '/docs/Gestión pre y postcosecha e industria alimentaria/Introducción',
+                component: ComponentCreator('/docs/Gestión pre y postcosecha e industria alimentaria/Introducción', 'e1c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Getting Started/MDX',
-                component: ComponentCreator('/docs/Getting Started/MDX', '69b'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Getting Started/Session-replay',
-                component: ComponentCreator('/docs/Getting Started/Session-replay', 'cb5'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Getting Started/table-of-contents',
-                component: ComponentCreator('/docs/Getting Started/table-of-contents', 'cc3'),
+                path: '/docs/Gobernanza y desarrollo de oportunidades de negocio y utilidades/Introducción',
+                component: ComponentCreator('/docs/Gobernanza y desarrollo de oportunidades de negocio y utilidades/Introducción', '48d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/Material and Resources/Material',
-                component: ComponentCreator('/docs/Material and Resources/Material', '1bb'),
-                exact: true,
-                sidebar: "tutorialSidebar"
+                component: ComponentCreator('/docs/Material and Resources/Material', '274'),
+                exact: true
               },
               {
                 path: '/docs/Material and Resources/Resources',
-                component: ComponentCreator('/docs/Material and Resources/Resources', '1bb'),
+                component: ComponentCreator('/docs/Material and Resources/Resources', '9af'),
+                exact: true
+              },
+              {
+                path: '/docs/Observación de la Tierra y el clima/Introducción',
+                component: ComponentCreator('/docs/Observación de la Tierra y el clima/Introducción', 'c8f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/single-page',
-                component: ComponentCreator('/docs/single-page', '886'),
+                path: '/docs/Optimización de agua y energía/Introducción',
+                component: ComponentCreator('/docs/Optimización de agua y energía/Introducción', 'b63'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets',
+                component: ComponentCreator('/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets', 'c06'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Sensorización, infraestructuras y tecnologías de datos/Introducción',
+                component: ComponentCreator('/docs/Sensorización, infraestructuras y tecnologías de datos/Introducción', 'bf7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Sensorización, infraestructuras y tecnologías de datos/Packages',
+                component: ComponentCreator('/docs/Sensorización, infraestructuras y tecnologías de datos/Packages', '909'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

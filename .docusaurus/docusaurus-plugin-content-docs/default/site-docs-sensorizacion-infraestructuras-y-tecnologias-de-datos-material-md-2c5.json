@@ -1,0 +1,20 @@
+{
+  "id": "Sensorización, infraestructuras y tecnologías de datos/material",
+  "title": "material",
+  "description": "",
+  "source": "@site/docs/Sensorización, infraestructuras y tecnologías de datos/material.md",
+  "sourceDirName": "Sensorización, infraestructuras y tecnologías de datos",
+  "slug": "/Sensorización, infraestructuras y tecnologías de datos/material",
+  "permalink": "/docs/Sensorización, infraestructuras y tecnologías de datos/material",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/citridata-doc/citridata-docusaurus/tree/main/docs/docs/Sensorización, infraestructuras y tecnologías de datos/material.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Resources",
+    "permalink": "/docs/Material and Resources/Resources"
+  }
+}

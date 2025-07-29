@@ -8,51 +8,59 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "Getting Started/Basic Markdown",
+          "mainDocId": "Sensorización, infraestructuras y tecnologías de datos/Introducción",
           "docs": [
             {
-              "id": "Getting Started/API-docs",
-              "path": "/docs/Getting Started/API-docs",
+              "id": "Competencia de paises terceros en el mercado de cítricos/Introducción",
+              "path": "/docs/Competencia de paises terceros en el mercado de cítricos/Introducción",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Getting Started/Basic Markdown",
-              "path": "/docs/Getting Started/Basic Markdown",
+              "id": "Eficiencias en el uso del suelo, ambiente, insumos y estilos de agricultura/Introducción",
+              "path": "/docs/Eficiencias en el uso del suelo, ambiente, insumos y estilos de agricultura/Introducción",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Getting Started/Created",
-              "path": "/docs/Getting Started/Created",
+              "id": "Gestión pre y postcosecha e industria alimentaria/Introducción",
+              "path": "/docs/Gestión pre y postcosecha e industria alimentaria/Introducción",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Getting Started/MDX",
-              "path": "/docs/Getting Started/MDX",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Getting Started/Session-replay",
-              "path": "/docs/Getting Started/Session-replay",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Getting Started/table-of-contents",
-              "path": "/docs/Getting Started/table-of-contents",
+              "id": "Gobernanza y desarrollo de oportunidades de negocio y utilidades/Introducción",
+              "path": "/docs/Gobernanza y desarrollo de oportunidades de negocio y utilidades/Introducción",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Material and Resources/Material",
-              "path": "/docs/Material and Resources/Material",
-              "sidebar": "tutorialSidebar"
+              "path": "/docs/Material and Resources/Material"
             },
             {
               "id": "Material and Resources/Resources",
-              "path": "/docs/Material and Resources/Resources",
+              "path": "/docs/Material and Resources/Resources"
+            },
+            {
+              "id": "Observación de la Tierra y el clima/Introducción",
+              "path": "/docs/Observación de la Tierra y el clima/Introducción",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "single-page",
-              "path": "/docs/single-page",
+              "id": "Optimización de agua y energía/Introducción",
+              "path": "/docs/Optimización de agua y energía/Introducción",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensorización, infraestructuras y tecnologías de datos/DataSets",
+              "path": "/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensorización, infraestructuras y tecnologías de datos/Introducción",
+              "path": "/docs/Sensorización, infraestructuras y tecnologías de datos/Introducción",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Sensorización, infraestructuras y tecnologías de datos/Packages",
+              "path": "/docs/Sensorización, infraestructuras y tecnologías de datos/Packages",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -60,8 +68,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/Getting Started/Basic Markdown",
-                "label": "Getting Started/Basic Markdown"
+                "path": "/docs/Sensorización, infraestructuras y tecnologías de datos/Introducción",
+                "label": "Sensorización, infraestructuras y tecnologías de datos/Introducción"
               }
             }
           }

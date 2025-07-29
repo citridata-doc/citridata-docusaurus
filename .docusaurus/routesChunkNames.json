@@ -263,54 +263,62 @@
     },
     "config": "config---my-react-page-5-e-9-dcc"
   },
-  "/docs-4f3": {
+  "/docs-747": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-139": {
+  "/docs-368": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-c19": {
+  "/docs-455": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/Getting Started/API-docs-161": {
+  "/docs/Competencia de paises terceros en el mercado de cítricos/Introducción-571": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-getting-started-api-docs-79-b-458"
+    "content": "content---docs-competencia-de-paises-terceros-en-el-mercado-de-citricos-introduccion-703-412"
   },
-  "/docs/Getting Started/Basic Markdown-b18": {
+  "/docs/Eficiencias en el uso del suelo, ambiente, insumos y estilos de agricultura/Introducción-859": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-getting-started-basic-markdownfc-0-d60"
+    "content": "content---docs-eficiencias-en-el-uso-del-suelo-ambiente-insumos-y-estilos-de-agricultura-introduccionfc-8-c96"
   },
-  "/docs/Getting Started/Created-048": {
+  "/docs/Gestión pre y postcosecha e industria alimentaria/Introducción-e1c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-getting-started-createdfe-3-19e"
+    "content": "content---docs-gestion-pre-y-postcosecha-e-industria-alimentaria-introduccion-388-dcf"
   },
-  "/docs/Getting Started/MDX-69b": {
+  "/docs/Gobernanza y desarrollo de oportunidades de negocio y utilidades/Introducción-48d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-getting-started-mdx-894-115"
+    "content": "content---docs-gobernanza-y-desarrollo-de-oportunidades-de-negocio-y-utilidades-introduccion-133-faa"
   },
-  "/docs/Getting Started/Session-replay-cb5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-getting-started-session-replay-6-d-0-b00"
-  },
-  "/docs/Getting Started/table-of-contents-cc3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-getting-started-table-of-contents-185-bbd"
-  },
-  "/docs/Material and Resources/Material-1bb": {
+  "/docs/Material and Resources/Material-274": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-material-and-resources-materiale-26-1a9"
   },
-  "/docs/Material and Resources/Resources-1bb": {
+  "/docs/Material and Resources/Resources-9af": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-material-and-resources-resources-30-b-a4b"
   },
-  "/docs/single-page-886": {
+  "/docs/Observación de la Tierra y el clima/Introducción-c8f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-single-paged-76-92d"
+    "content": "content---docs-observacion-de-la-tierra-y-el-clima-introduccion-807-907"
+  },
+  "/docs/Optimización de agua y energía/Introducción-b63": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-optimizacion-de-agua-y-energia-introduccionc-90-c12"
+  },
+  "/docs/Sensorización, infraestructuras y tecnologías de datos/DataSets-c06": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sensorizacion-infraestructuras-y-tecnologias-de-datos-data-setse-5-c-441"
+  },
+  "/docs/Sensorización, infraestructuras y tecnologías de datos/Introducción-bf7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sensorizacion-infraestructuras-y-tecnologias-de-datos-introduccionc-21-d55"
+  },
+  "/docs/Sensorización, infraestructuras y tecnologías de datos/Packages-909": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sensorizacion-infraestructuras-y-tecnologias-de-datos-packages-7-bf-7a6"
   },
   "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

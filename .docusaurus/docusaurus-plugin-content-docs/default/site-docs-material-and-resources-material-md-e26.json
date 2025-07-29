@@ -8,17 +8,8 @@
   "permalink": "/docs/Material and Resources/Material",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Material and Resources/Material.md",
+  "editUrl": "https://github.com/citridata-doc/citridata-docusaurus/tree/main/docs/docs/Material and Resources/Material.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Session-replay",
-    "permalink": "/docs/Getting Started/Session-replay"
-  },
-  "next": {
-    "title": "Resources",
-    "permalink": "/docs/Material and Resources/Resources"
-  }
+  "frontMatter": {}
 }

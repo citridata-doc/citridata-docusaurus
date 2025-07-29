@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'CitriData',
-  tagline: 'Desarrollos y documentación de CitriData',
+  tagline: 'Activos para Data Spaces',
   favicon: 'img/citri.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -20,15 +20,17 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  // url: 'https://your-docusaurus-site.example.com',
+  url: 'https://citridata-doc.github.io',
+
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'citridata-doc', // Usually your GitHub org/user name.
+  projectName: 'citridata-docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -51,7 +53,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/citridata-doc/citridata-docusaurus/tree/main/docs',
         },
         blog: {
           showReadingTime: true,
@@ -91,11 +93,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentación',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/citridata-doc/citridata-docusaurus',
             label: 'GitHub',
             position: 'right',
           },
@@ -105,12 +107,25 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Nuestras WEBs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'CitriData',
+                to: 'https://uco.es/citridata',
               },
+              {
+                label: 'Escuela Técnica Superior de Ingenieros Agrónomos y Montes',
+                to: 'https://uco.es/etsiam',
+              },                
+              {
+                label: 'Aula de Transformación Digital FIWARE',
+                to: 'https://uco.es/atdfiware',
+              }, 
+              {
+                label: 'Universidad de Córdoba',
+                to: 'https://uco.es/atdfiware',
+              },          
+          
             ],
           },
           {
@@ -144,7 +159,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} CitriData-Doc, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
