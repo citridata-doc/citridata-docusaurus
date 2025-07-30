@@ -1,0 +1,24 @@
+{
+  "id": "Observación de la Tierra y el clima/Packages/Clasificación de plantaciones",
+  "title": "Clasificación de plantaciones",
+  "description": "La edad de las plantaciones es un factor crucial en la agricultura, especialmente en cultivos leñosos y perennes como el olivar, los frutales y el viñedo, que son muy importantes en Andalucía. Se pueden clasificar las plantaciones por su edad de varias maneras, y cada fase tiene implicaciones diferentes en cuanto a manejo, producción y rentabilidad.",
+  "source": "@site/docs/Observación de la Tierra y el clima/Packages/Clasificación de plantaciones.md",
+  "sourceDirName": "Observación de la Tierra y el clima/Packages",
+  "slug": "/Observación de la Tierra y el clima/Packages/Clasificación de plantaciones",
+  "permalink": "/docs/Observación de la Tierra y el clima/Packages/Clasificación de plantaciones",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/citridata-doc/citridata-docusaurus/tree/main/docs/docs/Observación de la Tierra y el clima/Packages/Clasificación de plantaciones.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introducción",
+    "permalink": "/docs/Observación de la Tierra y el clima/Introducción"
+  },
+  "next": {
+    "title": "Introducción",
+    "permalink": "/docs/Eficiencias en el uso del suelo, ambiente, insumos y estilos de agricultura/Introducción"
+  }
+}

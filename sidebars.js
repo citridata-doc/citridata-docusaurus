@@ -57,7 +57,17 @@ const sidebars = {
     {
       type: 'category',
       label: 'Observación de la Tierra y el clima',
-      items: ['Observación de la Tierra y el clima/Introducción'],
+      collapsible: true,
+      collapsed: true,
+      items: [
+        'Observación de la Tierra y el clima/Introducción',
+        {
+          type: 'category',
+          label: 'Packages',
+          items: ['Observación de la Tierra y el clima/Packages/Clasificación de plantaciones' 
+                ],
+        },                
+      ],
     },
     {
       type: 'category',

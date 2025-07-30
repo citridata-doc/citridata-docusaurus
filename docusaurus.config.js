@@ -19,6 +19,13 @@ const config = {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
   },
 
+  // Diagramas (añadido 30.07.2025 JSONCheca)
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
+
+
   // Set the production url of your site here
   // url: 'https://your-docusaurus-site.example.com',
   url: 'https://citridata-doc.github.io',

@@ -263,17 +263,17 @@
     },
     "config": "config---my-react-page-5-e-9-dcc"
   },
-  "/docs-746": {
+  "/docs-394": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-1fb": {
+  "/docs-e11": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-f23": {
+  "/docs-abd": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/CitriData/Introducción-161": {
@@ -307,6 +307,10 @@
   "/docs/Observación de la Tierra y el clima/Introducción-c8f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-observacion-de-la-tierra-y-el-clima-introduccion-807-907"
+  },
+  "/docs/Observación de la Tierra y el clima/Packages/Clasificación de plantaciones-9bc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-observacion-de-la-tierra-y-el-clima-packages-clasificacion-de-plantaciones-133-e66"
   },
   "/docs/Optimización de agua y energía/Introducción-b63": {
     "__comp": "__comp---theme-doc-item-178-a40",

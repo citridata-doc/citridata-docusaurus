@@ -1,7 +1,7 @@
 {
   "id": "Observación de la Tierra y el clima/Introducción",
   "title": "Introducción",
-  "description": "",
+  "description": "Paquete de Trabajo 03",
   "source": "@site/docs/Observación de la Tierra y el clima/Introducción.md",
   "sourceDirName": "Observación de la Tierra y el clima",
   "slug": "/Observación de la Tierra y el clima/Introducción",
@@ -18,7 +18,7 @@
     "permalink": "/docs/Sensorización, infraestructuras y tecnologías de datos/Packages/002"
   },
   "next": {
-    "title": "Introducción",
-    "permalink": "/docs/Eficiencias en el uso del suelo, ambiente, insumos y estilos de agricultura/Introducción"
+    "title": "Clasificación de plantaciones",
+    "permalink": "/docs/Observación de la Tierra y el clima/Packages/Clasificación de plantaciones"
   }
 }

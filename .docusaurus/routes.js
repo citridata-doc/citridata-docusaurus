@@ -124,15 +124,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '746'),
+    component: ComponentCreator('/docs', '394'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '1fb'),
+        component: ComponentCreator('/docs', 'e11'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'f23'),
+            component: ComponentCreator('/docs', 'abd'),
             routes: [
               {
                 path: '/docs/CitriData/Introducción',
@@ -177,6 +177,12 @@ export default [
               {
                 path: '/docs/Observación de la Tierra y el clima/Introducción',
                 component: ComponentCreator('/docs/Observación de la Tierra y el clima/Introducción', 'c8f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Observación de la Tierra y el clima/Packages/Clasificación de plantaciones',
+                component: ComponentCreator('/docs/Observación de la Tierra y el clima/Packages/Clasificación de plantaciones', '9bc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

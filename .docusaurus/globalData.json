@@ -49,6 +49,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Observación de la Tierra y el clima/Packages/Clasificación de plantaciones",
+              "path": "/docs/Observación de la Tierra y el clima/Packages/Clasificación de plantaciones",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Optimización de agua y energía/Introducción",
               "path": "/docs/Optimización de agua y energía/Introducción",
               "sidebar": "tutorialSidebar"
